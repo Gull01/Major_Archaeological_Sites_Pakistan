@@ -1,17 +1,17 @@
-# 🏛️ Major Archaeological Sites of Pakistan
+# Major Archaeological Sites of Pakistan
 
-## 🚀 Overview
+## Overview
 An interactive web map visualizing major archaeological sites located in Pakistan.
 
-## ✨ Key Features
+## Key Features
 - **Historical Visualization**: Explores key cultural heritage locations.
 - **Information Popups**: Detailed metadata about specific archaeological zones.
 - **Interactive Web Map**: Provides a seamless browsing experience.
 
-## 🛠️ Built With
+## Built With
 - **Tech Stack:** Web GIS, Python, Mapping tools
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Ensure your local environment is configured securely (e.g. Python 3.8+ or necessary GIS software context).
@@ -27,7 +27,7 @@ Ensure your local environment is configured securely (e.g. Python 3.8+ or necess
    ```
 3. Set up your environment and dependencies as needed.
 
-## 📄 License
+## License
 This project is licensed under the MIT License - see below for details.
 
 ```text
