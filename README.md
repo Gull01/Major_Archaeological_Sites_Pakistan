@@ -1,16 +1,17 @@
-# Major Archaeological Sites in Pakistan An interactive web-based map visualizing various major archaeological sites across Pakistan. ## Overview
-This project presents geographical locations and related information of historical and archaeological landmarks in Pakistan as an interactive map. ## Features
-- **Map Visualization**: A detailed interactive map highlighting the locations of major historical sites.
-- **Data Exploration**: Designed for users interested in geography, history, and archaeological studies in Pakistan.
+# Major Archaeological Sites Pakistan
 
 ## Overview
-This project is organized for professional use with clear structure and documentation.
+This repository contains code, assets, and documentation for the **Major Archaeological Sites Pakistan** project.
 
 ## Features
-- Clean and maintainable codebase.
-- Structured for readability and reuse.
+- Clear project scope and maintainable structure.
+- Practical implementation focused on reliability.
+- Ready for extension and collaboration.
 
 ## Getting Started
 1. Clone the repository.
-2. Install dependencies if needed.
-3. Run the project using the repository instructions.
+2. Review the source files and documentation.
+3. Run the project using the tools listed in this repository.
+
+## License
+Add your preferred license information here.
